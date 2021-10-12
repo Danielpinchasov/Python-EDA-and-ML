@@ -1,5 +1,6 @@
 # Python-EDA-And-ML
-<h4> In this project i preformed advanced analysis on dataframe that hase taken from kaggle and called "Telco Customer Churn".
+<h4> In this project i preformed advanced analysis on dataframe that hase taken from kaggle and called 
+  "Telco Customer Churn".
   
 This project has done in jupyter lab enviroment.
   
